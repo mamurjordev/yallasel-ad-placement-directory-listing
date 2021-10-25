@@ -1,0 +1,26 @@
+<template>
+  <admin-layout>
+    <div class="flex flex-wrap mt-4">
+      <form-article formName="Article" :errors="errors" :article="article" :languages="languages"></form-article>
+    </div>
+  </admin-layout>
+</template>
+
+<script>
+import AdminLayout from "@/Layouts/AdminLayout";
+import FormArticle from "@/Components/Admin/Forms/Article";
+export default {
+  props: {
+    errors: Object,
+    article: Object,
+    languages: Array
+  },
+  components: {
+    AdminLayout,
+    FormArticle,
+  },
+  data: function () {
+    return {};
+  },
+};
+</script>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="16px" viewBox="0 0 1440 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="16"></rect>
+    </defs>
+    <g id="Footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustration">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#F1F0EE" xlink:href="#path-1"></use>
+                <rect id="Rectangle" fill="#BF9434" mask="url(#mask-2)" x="1025" y="0" width="147" height="16"></rect>
+                <polygon id="Rectangle" fill="#FFC446" mask="url(#mask-2)" points="612 4.21884749e-14 927 0 931.5 16 612 16"></polygon>
+                <polygon id="Rectangle" fill="#9EC4E9" mask="url(#mask-2)" points="243 8.8817842e-16 571 0 571 16 243 16"></polygon>
+                <rect id="Rectangle" fill="#1D1F1E" mask="url(#mask-2)" x="496" y="0" width="116" height="16"></rect>
+                <polygon id="Rectangle" fill="#F27781" mask="url(#mask-2)" points="82.5 -4.4408921e-14 251.5 0 265.5 16 82.5 16"></polygon>
+                <polygon id="Rectangle" fill="#96202E" mask="url(#mask-2)" points="-5.5970853e-15 -2.81996648e-14 101 0 83.5 16 0 16"></polygon>
+                <rect id="Rectangle" fill="#15466E" mask="url(#mask-2)" x="1307" y="0" width="133" height="21"></rect>
+                <polygon id="Rectangle" fill="#9EC4E9" mask="url(#mask-2)" points="1172 0 1310 0 1318 16 1172 16"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

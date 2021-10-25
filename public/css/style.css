@@ -1,0 +1,17 @@
+.quick-link a:not(:last-child)::after {
+    content: '-';
+    padding-left: 10px
+}
+
+
+.Products-items-info div:not(:last-child)::after {
+    content: "·";
+    display: inline-block;
+    margin: 0px 0.25em;
+}
+
+
+/* .Products-items-info div{
+    font-size: 16px;
+} */
+

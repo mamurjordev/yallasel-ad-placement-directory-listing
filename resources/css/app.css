@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer utilities {
+    @variants responsive {
+        .column-auto-4 {
+            columns: auto 4;
+        }
+
+        ,
+        .max-w-20 {
+            max-width: 5rem;
+        }
+
+        ,
+        .h-120 {
+            height: 30rem;
+        }
+    }
+}
