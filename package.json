@@ -39,7 +39,7 @@
         "firebase": "^8.7.1",
         "lang.js": "^1.1.14",
         "laravel-vue-lang": "^3.1.1",
-        "moment-timezone": "^0.5.33",
+        "moment-timezone": "^0.5.35",
         "vue-advanced-chat": "^0.8.6",
         "vue-apexcharts": "^1.6.1",
         "vue-filepond": "^7.0.0",
